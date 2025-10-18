@@ -34,5 +34,5 @@ Xin chào 👋
 - Thực hành sử dụng **pandas, numpy, matplotlib**  
 - Rèn luyện tư duy xử lý và trình bày dữ liệu trực quan  
 - Chuẩn bị nền tảng cho các môn học nâng cao về **khoa học dữ liệu**
-## 🗂️ Cấu trúc thư mục (dự kiến)
+
 
