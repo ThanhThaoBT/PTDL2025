@@ -8,10 +8,7 @@ Xin chào 👋
 ## 👩‍💻 Thông tin sinh viên
 
 - **Họ và tên:** Hồ Thị Thanh Thảo  
-- **Mã sinh viên:** *(Điền nếu có)*  
-- **Lớp / Khoá:** *(Ví dụ: CNTT – K47)*  
 - **Môn học:** Phân tích dữ liệu  
-- **Giảng viên hướng dẫn:** *(Tên thầy/cô)*  
 - **Email:** [boeothao@gmail.com](mailto:boeothao@gmail.com)
 
 ---
